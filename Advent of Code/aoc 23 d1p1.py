@@ -29,4 +29,4 @@ for idx, (first, last) in enumerate(numbers_list, start=1):
     
 
 print("first : ", sum(merg_F), "last : ", sum(add_L))
-# !!! first mal 10 nicht vergessen + last !!!
+# first x 10
